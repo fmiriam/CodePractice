@@ -1,0 +1,2 @@
+# CodePractice
+Personal python pratise
